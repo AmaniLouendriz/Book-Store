@@ -100,7 +100,6 @@ body {
   float: left;
   z-index: 2;
   background-color: #ddd;
-  display: none;
 }
 .side-menu ul {
   margin-left: 10px;
@@ -159,4 +158,68 @@ body {
   #menu-btn {
     display: block;
   }
+}
+/* Carousel configuration */
+.carousel-item {
+  height: 32rem;
+  background: #777;
+  /* position: relative; */
+}
+.container img {
+  height: 32rem;
+  /* width: auto; */
+}
+
+/* Carousel Slider */
+.slider {
+  width: 85%;
+  margin-left: 15%;
+  padding: 0 10px;
+}
+.carousel {
+  box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.5);
+}
+.carousel-indicators {
+  z-index: 1 !important;
+}
+@media screen and (max-width: 980px) {
+  .slider {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+/* Featured Categories */
+.featured-categories {
+  margin: 50px 0;
+}
+.featured-categories img {
+  width: 100%;
+  padding: 20px 0;
+  transition: 1s;
+  cursor: pointer;
+}
+.featured-categories img:hover {
+  transform: scale(1.1);
+}
+/* On Sale Product */
+.title-box {
+  background: orange;
+  color: #fff;
+  width: 180px;
+  padding: 4px 10px;
+  height: 40px;
+  margin-bottom: 30px;
+  display: flex;
+}
+.title-box h2 {
+  font-size: 24px;
+}
+.title-box ::after {
+  content: "";
+  border-top: 40px solid orange;
+  border-right: 50px solid transparent;
+  position: absolute;
+  display: flex;
+  margin-top: -33px;
+  margin-left: 170px;
 }
