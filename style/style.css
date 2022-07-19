@@ -272,3 +272,9 @@ body {
 .new-products {
   margin: 50px 0;
 }
+.website-features {
+  margin: 60px 0;
+}
+.website-features img {
+  width: 20%;
+}
