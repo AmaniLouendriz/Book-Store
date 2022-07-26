@@ -1,0 +1,29 @@
+[33mcommit 29d22abe6100a9b0dbd29e50cfce22bafa067fc2[m[33m ([m[1;36mHEAD -> [m[1;32mMyBranch[m[33m)[m
+Author: Amani Louendriz <aloue024@uottawa.ca>
+Date:   Mon Jul 18 20:23:03 2022 -0400
+
+    Made update
+
+[33mcommit ce409729910a9c16454c34fa3f37ada1ffa14f9b[m
+Author: Amani Louendriz <aloue024@uottawa.ca>
+Date:   Sun Jul 17 21:19:31 2022 -0400
+
+    added new arrivals section
+
+[33mcommit 3c4f71d2ee54bb0f60932285a6ad336115760213[m
+Author: Amani Louendriz <aloue024@uottawa.ca>
+Date:   Sun Jul 17 12:13:18 2022 -0400
+
+    Faced problems with the overlay-right class when hovering on product top class
+
+[33mcommit d897f2948be931c75e1827ca86762f80d95ac9ba[m
+Author: Amani Louendriz <aloue024@uottawa.ca>
+Date:   Sat Jul 16 18:48:37 2022 -0400
+
+    Made a carousel for items and added zoom effect
+
+[33mcommit 42a3d30d285897315d7338dee165d4f793b2da64[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Amani Louendriz <aloue024@uottawa.ca>
+Date:   Mon Jul 11 20:17:57 2022 -0400
+
+    Made the navigation bar
